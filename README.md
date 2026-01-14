@@ -1,4 +1,4 @@
-Task 6: House Price Prediction
+Task 2: House Price Prediction
 
 🎯 Objective
 
